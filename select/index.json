@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "base_track": "青春バスガイド",
+  "base_artist": "Berryz工房",
+  "createdAt": "2026-03-29T13:20:55.115860Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春バスガイド",
+      "artist": "alom",
+      "has_synced": false,
+      "path": "select/01_青春バスガイド_alom.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青春バスガイド",
+      "artist": "Berryz工房",
+      "has_synced": true,
+      "path": "select/02_青春バスガイド_Berryz工房.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青春バスガイド",
+      "artist": "berryzkobo",
+      "has_synced": true,
+      "path": "select/03_青春バスガイド_berryzkobo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青春バスガイド (アニメエンディングVer.)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/04_青春バスガイド_(アニメエンディングVer.)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青春バスガイド (Instrumental)",
+      "artist": "Berryz工房",
+      "has_synced": true,
+      "path": "select/05_青春バスガイド_(Instrumental)_Berryz工房.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青春バスガイド（アニメエンディングVer.）",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/06_青春バスガイド(アニメエンディングVer.)_Berryz工房.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春バスガイド",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_01_青春バスガイド_Berryz工房.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "青春バスガイド",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/localdb_01_青春バスガイド_Berryz工房.txt",
+      "repo_name": "VSNe8UwwVIE"
+    }
+  ]
+}
